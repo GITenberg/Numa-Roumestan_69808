@@ -8,6 +8,9 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '35309'
     url: http://www.gutenberg.org/2009/agents/35309
+covers:
+- cover_type: archival
+  image_path: 69808-h/images/cover.jpg
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69808#Numa-Roumestan
 gutenberg_issued: '2023-01-15'
 identifiers:
   gutenberg: '69808'
